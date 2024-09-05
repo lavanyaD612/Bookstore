@@ -52,7 +52,7 @@ The Online Book Store is a sophisticated web-based application that enables user
 - Development of a recommendation engine based on users' browsing and purchase history.
 
 # Survey 
-A survey was conducted with 93 participants, and their feedback will inform the further development of this project.
+A survey was conducted with 100 participants, and their feedback will inform the further development of this project.
 
 # Conclusion
 The Online Book Store is a comprehensive web platform that allows users to search for, browse, and purchase books online. Users can easily search by title or author, add items to their shopping cart, and complete the purchase with secure payment options.
