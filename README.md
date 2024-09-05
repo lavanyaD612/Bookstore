@@ -29,23 +29,23 @@ The Online Book Store is a sophisticated web-based application that enables user
   - Secure payment processing through payment gateways.
   - Generating order confirmations and providing order history.
 
-**Technologies Used:**  
-- Java  
-- Spring Boot    
-- MySQL  
+- **Technologies Used:**  
+  - Java  
+  - Spring Boot    
+  - MySQL  
 
-**Challenges:**  
-- **Front-End and Back-End Integration:**  
-  Integrating the frontend with backend services is essential to ensure a smooth user experience. This involves:  
-  - Defining API endpoints  
-  - Using Angular services for data handling  
-  - Managing HTTP requests for seamless communication.
+- **Challenges:**  
+  - **Front-End and Back-End Integration:**  
+    Integrating the frontend with backend services is essential to ensure a smooth user experience. This involves:  
+    - Defining API endpoints  
+    - Using Angular services for data handling  
+    - Managing HTTP requests for seamless communication.
 
-- **Data Security and Privacy:**  
-  Protecting sensitive user and payment data is crucial. This is ensured by:  
-  - Using HTTPS for secure communication  
-  - Implementing authentication and authorization mechanisms  
-  - Input validation and sanitization to prevent vulnerabilities.
+  - **Data Security and Privacy:**  
+    Protecting sensitive user and payment data is crucial. This is ensured by:  
+    - Using HTTPS for secure communication  
+    - Implementing authentication and authorization mechanisms  
+    - Input validation and sanitization to prevent vulnerabilities.
 
 # Future Enhancements  
 - Integration with additional payment gateways for enhanced transaction security.  
